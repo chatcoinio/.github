@@ -2,6 +2,8 @@
 
 **ChatCoin** is a decentralized, agent-based platform where profiles act as programmable containers for identity, apps, wallets, social graphs, and autonomous AI agents. Built for the next evolution of the internet, ChatCoin combines zero-knowledge privacy, modular execution, and ethical AI governance into a unified programmable environment.
 
+## [📘 View Wiki](https://github.com/chatcoinio/chatcoinio.github.io/wiki)
+
 
 
 ## System Architecture + ChatCoinChat Example dApp
